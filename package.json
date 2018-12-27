@@ -1,0 +1,14 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Website Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w -r dist/scss/ -o dist/css/"
+  },
+  "author": "Madam",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
